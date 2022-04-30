@@ -1,5 +1,6 @@
 # SocialLab
-Simple social media website made with native php and sql
+Simple social media website made with native php and sql.
+<br>
 <b>This repository is only available on the front-end!</b>
 
 ## Feature
