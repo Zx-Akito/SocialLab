@@ -1,5 +1,6 @@
 # SocialLab
 Simple social media website made with native php and sql
+<b>This repository is only available on the front-end!</b>
 
 ## Feature
 - <s>Register Account</s>
