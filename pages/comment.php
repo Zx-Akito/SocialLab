@@ -113,7 +113,12 @@
 
                     <div>
 
-                        <b>ZxAkito</b> <br>
+                        <a class="font-weight-bold" style="text-decoration:none;color:black;" href="profile.php">
+                            <div>
+                                <img class="rounded-circle mr-2 mb-2" src="../assets/image/user.png" width="40">
+                                    ZxAkito 
+                            </div>
+                        </a>
                         <div class="float-right text-muted">
                             3 min ago
                         </div>
@@ -127,7 +132,10 @@
 
                     <div class="pl-4">
 
-                        <b>Dimas</b> <br>
+                        <a class="font-weight-bold" style="text-decoration:none;color:black;" href="">
+                            <img class="rounded-circle mr-2 mb-2" src="../assets/image/user.png" width="40">
+                                Dimas
+                        </a> <br>
                         <div class="float-right text-muted">
                             1 hour ago
                         </div>
