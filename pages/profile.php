@@ -14,17 +14,8 @@
         <link href="../assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
         <!-- Custom styles for this template -->
-        <link href="../assets/styles/global.css" rel="stylesheet">
+        <link href="../assets/styles/global.css?" rel="stylesheet">
         <link href="../assets/styles/nav.css" rel="stylesheet">
-
-        <style>
-
-            .linkrel
-            {
-                text-decoration: none;
-            }
-
-        </style>
 
     </head>
 
@@ -119,7 +110,8 @@
             <div class="row">
                 <div class="col-lg-12 mt-3 mb-5 text-center">
                     <img class="rounded-circle" src="../assets/image/user.png" width="150">
-                    <h3 class="mt-2">ZxAkito</h3>
+                    <h3 class="mt-2">ZxAkito
+                </h3>
                 </div>
 
                 <div class="col-lg-12 mt-3">
@@ -131,7 +123,7 @@
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
+                        <a style="text-decoration:none" href="#">1k Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
                     <hr>
@@ -143,7 +135,7 @@
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
+                        <a style="text-decoration:none" href="#">3k Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
 
