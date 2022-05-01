@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
         <meta name="generator" content="Hugo 0.88.1">
-        <title>SosialLabPHP</title>
+        <title>SocialLab</title>
 
         <!-- Bootstrap core CSS -->
         <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -73,6 +73,15 @@
                 </div>
             </li>
 
+            <!-- Nav Item - Feed -->
+            <li class="nav-item dropdown no-arrow mx-1">
+                <a class="nav-link" href="feed.php">
+                    <i class="fas fa-home"></i>
+                    <!-- Counter - Feed -->
+                    <span class="badge badge-danger badge-counter">3+</span>
+                </a>
+            </li>
+
             <div class="topbar-divider d-none d-sm-block"></div>
 
             <!-- Nav Item - User Information -->
@@ -86,11 +95,11 @@
                 <!-- Dropdown - User Information -->
                 <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
                     aria-labelledby="userDropdown">
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="profile.php">
                         <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
                         Profile
                     </a>
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="setting.php">
                         <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
                         Settings & Privacy
                     </a>
@@ -118,7 +127,7 @@
                         </div>
 
                         <div class="mb-3">
-                            <input type="submit" class="btn btn-primary float-right" value="Post" name="">
+                            <input type="submit" class="btn btn-primary float-right" value="Send" name="">
                         </div>
                     </form>
                 </div>
@@ -132,7 +141,7 @@
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="#">Comment</a>
+                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
                     <hr>
@@ -144,7 +153,7 @@
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="#">Comment</a>
+                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
 
