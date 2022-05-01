@@ -135,25 +135,32 @@
                 <div class="col-lg-12 mt-3">
 
                     <div>
-                        <b>ZxAkito</b> <br>
+                        
+                        <a class="font-weight-bold" style="text-decoration:none;color:black;" href="profile.php">
+                            <img class="rounded-circle mr-2 mb-2" src="../assets/image/user.png" width="40">
+                                ZxAkito
+                        </a> <br>
                         <div class="float-right text-muted">
                             3 min ago
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
+                        <a style="text-decoration:none" href="#">2k Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
                     <hr>
 
                     <div>
-                        <b>Dimas</b> <br>
+                        <a class="font-weight-bold" style="text-decoration:none;color:black;" href="">
+                            <img class="rounded-circle mr-2 mb-2" src="../assets/image/user.png" width="40">
+                                Dimas
+                        </a> <br>
                         <div class="float-right text-muted">
                             1 hour ago
                         </div>
                         Lorem ipsum dolor sit amet... <br>
                         
-                        <a style="text-decoration:none" href="#">Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
+                        <a style="text-decoration:none" href="#">1k Like</a> - <a style="text-decoration:none" href="comment.php">Comment</a>
                     </div>
 
 
