@@ -15,23 +15,6 @@
         <!-- Custom styles for this template -->
         <link href="assets/styles/login.css" rel="stylesheet">
 
-        <style>
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-        }
-
-        @media (min-width: 768px) {
-            .bd-placeholder-img-lg {
-            font-size: 3.5rem;
-            }
-        }
-        </style>
-
     </head>
 
     <body class="text-center">
@@ -54,7 +37,7 @@
             <div class="mt-3">
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>
                 <hr>
-                <p class="text-muted">Don't have an account? <a href="login.php">Sign up</a></p>
+                <p class="text-muted">Don't have an account? <a href="login.php">Sign in</a></p>
             </div>
     </form>
 
