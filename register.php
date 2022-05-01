@@ -37,7 +37,7 @@
             <div class="mt-3">
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>
                 <hr>
-                <p class="text-muted">Don't have an account? <a href="login.php">Sign in</a></p>
+                <p class="text-muted">Already have an account? <a href="login.php">Sign in</a></p>
             </div>
     </form>
 
